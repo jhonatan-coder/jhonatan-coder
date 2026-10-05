@@ -2,7 +2,6 @@
 
  <div align="center">
    <a href="https://github.com/jhonatan-coder">
-    https://github-readme-stats-lime-nine-90.vercel.app/
   <img height="180em" src=" https://github-readme-stats-lime-nine-90.vercel.app/api?username=jhonatan-coder&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src=" https://github-readme-stats-lime-nine-90.vercel.app/api/top-langs/?username=jhonatan-coder&layout=compact&langs_count=6&theme=tokyonight"/>
